@@ -47,7 +47,7 @@ multidict==6.0.5
 mypy-extensions==1.0.0
 namex==0.0.8
 networkx==3.4.2
-numpy==2.1.1
+numpy==1.23.3
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
 optree==0.14.0
