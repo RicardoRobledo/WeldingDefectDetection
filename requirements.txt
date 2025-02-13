@@ -34,12 +34,7 @@ jsonpatch==1.33
 jsonpointer==2.4
 keras==3.8.0
 kiwisolver==1.4.8
-langchain-community==0.2.1
-langchain-core==0.2.1
-langchain-text-splitters==0.2.0
-langsmith==0.1.63
 libclang==18.1.1
-llama_cpp_python==0.2.76
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
